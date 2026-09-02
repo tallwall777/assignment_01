@@ -1,4 +1,5 @@
-I struggled the most with indent consistency which took me a while to get down. I was pretty good at maneuvering and following the directions given then being able to apply it on my own without help. Overall, this assignment allowed me to think and challenged me to pay attention to detail which made me better.
+I learned how to design small, pure functions in bill.py that were easy to test and reuse across the console, notebook, and streamlit interfaces. 
+When I debugged grand_total it taught me to read assertions carefully and to use breakpoints and the variables panel instead of trying to guess what is wrong. Moving forward I will rely on debugger as needed and I will keep practicing edge-case handling, especially with rounding and input validation 
 
 See reflection.md for what makes a good reflection — be specific, use the
 terminology from class, and make it actionable.
